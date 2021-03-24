@@ -1,0 +1,9 @@
+A multiplayer, arcade fighting 2-person game. The 2 characters should have a sad backstory to justify why are they fighting each other. One should be the villain character and other should be the Hero character. Who is right should be debatable. The game will consist of 2 parts. The hero will be the same but villain will be different in each part.
+
+1. Characters - PC - Player1,Player2
+2. Goal - To decrease the lifeline of the other player by fighting with him.
+3. Rules - Clicking Enter will perform a kick attack and clicking ctrl will perform a punch. Kick will decrease lifeline by 5 and punch will decrease by 2.
+4. Balance & Adaptivity - After every successful attack, the player's lifeline will increase by 1.
+5. Chance - The other player's attacks.
+6. Skills - Concentration of the player.
+7. Feedback - Lifeline, sounds.
